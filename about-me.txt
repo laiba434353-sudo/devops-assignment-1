@@ -1,0 +1,3 @@
+I am a DevOps student.
+This is my practice file for assignment 1.
+I am learning GitHub first time.
