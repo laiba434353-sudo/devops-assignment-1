@@ -10,3 +10,5 @@ I learned what is git and github. Git is used to track changes on computer and g
 
 ## Tools used
  GitHub website and my laptop browser
+ ## Branch Practice
+I made this assignment-notes branch to try changes separately from main branch.
